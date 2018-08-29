@@ -1,1 +1,1 @@
-Pierwszy plik konfliktowy
+Pierwszy plik konfliktowy, zmieniony w GIThub
