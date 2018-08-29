@@ -1,1 +1,1 @@
-Pierwszy plik zmodyfikowany ponownie
+Pierwszy plik konfliktowy
